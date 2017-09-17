@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-<<<<<<< HEAD
-  productGUID: ae5c855afd33a413699254217dbdf8af
-=======
   productGUID: 76e8b9bcc0f794cbb943a4a6c33df998
->>>>>>> master
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -408,11 +404,7 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
-<<<<<<< HEAD
-  ps4Passcode: 5PN2qmWqBlQ9wQj99nsQzldVI5ZuGXbE
-=======
   ps4Passcode: qBlQ9wQj99nsQzldVI5ZuGXbEWRK5RhR
->>>>>>> master
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -458,11 +450,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-<<<<<<< HEAD
-  psp2PackagePassword: WRK5RhRXdCdG5nG5azdNMK66MuCV6GXi
-=======
   psp2PackagePassword: XdCdG5nG5azdNMK66MuCV6GXi5xr84P2
->>>>>>> master
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
@@ -598,15 +586,9 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-<<<<<<< HEAD
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
-=======
   cloudProjectId: 8a6e548d-4c62-4a7a-8c35-83bdf70f4cb2
   projectName: client (1)
   organizationId: zhang-1397315
->>>>>>> master
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
