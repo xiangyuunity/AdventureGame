@@ -53,6 +53,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Common\AEResources.cs" />
      <Compile Include="Assets\Scripts\Common\AESingleton.cs" />
+     <Compile Include="Assets\Scripts\Common\Interfaces\IAEUpdate.cs" />
+     <Compile Include="Assets\Scripts\Common\Interfaces\IMonoBehaviourSingleton.cs" />
      <Compile Include="Assets\Scripts\Common\MonoBehaviourSingleton.cs" />
      <Compile Include="Assets\Scripts\Common\TimerManager.cs" />
  <Reference Include="UnityEngine.UI">
